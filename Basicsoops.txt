@@ -1,0 +1,23 @@
+Java OOPS Basics
+
+-- Classes and Objects
+
+-- Methods / Functions.
+
+-- Public, Private, Protected, Default
+
+-- Constructor (default and parameterised )
+
+-- Encapsulation (getter and setter )
+
+-- Bank example
+
+-- Polymorphism (Override )
+
+-- Payment mechanism
+
+-- Abstraction
+
+-- abstract
+
+-- interface (cannot be instantiated )
